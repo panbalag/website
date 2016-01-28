@@ -120,9 +120,9 @@ Various components which don't fit the large test efforts above.
 | All-in-one Nova tests | RDO Mitaka | RHEL7.1 |  |  |   |  | Packstack + nova sanity |
 | All-in-one Nova tests | RDO Mitaka | Centos7.1 |   |  |    |  |  |
 | RDO Mitaka | Fedora 21 |   |  |   |  |  | |
-| 2.node Nova tests | RDO Mitaka | RHEL7.1 |   |  |   |  | Packstack + nova live migration (block / shared storage) |
+| 2.node Nova tests | RDO Mitaka | RHEL7.1 |   |  |  |  | Packstack + nova live migration (block / shared storage) |
 |  | RDO Mitaka | Fedora 21 |   |  |    |  |  |
-|  | RDO Mitaka | Centos7.1 |   |  |     |  |  | 
+|  | RDO Mitaka | Centos7.1 |  PASS |  | Prasanth Anbalagan (panbalag@redhat.com)   | 01-27-2016  |  | 
 
 
 ## Manual configuration of OpenStack
